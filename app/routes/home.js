@@ -3,7 +3,7 @@ const router = Router();
 
 router.get('/', (req, res) => {
     res.send(`
-        <h1>📦 Bienvenido a la API  EDITADO de Contenidos</h1>
+        <h1>📦 Bienvenido a la API  EDITADO2 de Contenidos</h1>
         <p>Esta API te permite listar, agregar y eliminar contenidos almacenados.</p>
         
         <h2>💡 Endpoints disponibles:</h2>
